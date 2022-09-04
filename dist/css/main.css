@@ -172,16 +172,21 @@
 }
 
 .menu-nav__item:nth-child(2) {
-  -webkit-transition-delay: 0.35s;
-          transition-delay: 0.35s;
+  -webkit-transition-delay: 0.32s;
+          transition-delay: 0.32s;
 }
 
 .menu-nav__item:nth-child(3) {
-  -webkit-transition-delay: 0.45s;
-          transition-delay: 0.45s;
+  -webkit-transition-delay: 0.40s;
+          transition-delay: 0.40s;
 }
 
 .menu-nav__item:nth-child(4) {
+  -webkit-transition-delay: 0.48s;
+          transition-delay: 0.48s;
+}
+
+.menu-nav__item:nth-child(5) {
   -webkit-transition-delay: 0.55s;
           transition-delay: 0.55s;
 }
